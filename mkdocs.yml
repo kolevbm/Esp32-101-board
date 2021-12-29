@@ -1,0 +1,6 @@
+site_name: Esp32-101
+
+nav:
+  - Home: index.md
+  - AboutMkDocs: about.md
+theme: readthedocsa
