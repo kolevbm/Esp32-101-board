@@ -3,5 +3,6 @@ site_description: Description of the documentation
 
 nav:
   - Home: index.md
-  - AboutMkDocs: about.md
+  - About: about.md
+  - Инфо: boardInfo.md
 theme: readthedocs
