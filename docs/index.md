@@ -1,4 +1,5 @@
-# Welcome to ESP32-101-board
+#ESP32-101-board
+
 Powered by VB-electronics
 
 
@@ -8,7 +9,7 @@ Powered by VB-electronics
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `mkdocs -h` - Print help message and exit.   
 
 ## Project layout
 
