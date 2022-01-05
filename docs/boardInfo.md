@@ -33,8 +33,8 @@
 - Вграден датчик на Хол ([сензор за магнитно поле](https://en.wikipedia.org/wiki/Hall_effect_sensor))
 
 - **3.3V** работно напрежение
-  ![image](/img/ESP32-30PIN-DEVBOARD.png "ESP32-devBoard30pins")
-
+  
+  <img src="img/ESP32-30PIN-DEVBOARD.png" alt="Screenshot" style="zoom:100%;" />
   *ESP32-devBoard 30pins*
 ## Периферни модули
 
@@ -56,4 +56,3 @@
 - Допълнителна (външна) EEPROM памет (опция)
 
 
-​

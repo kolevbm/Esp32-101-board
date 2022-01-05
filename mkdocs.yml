@@ -1,6 +1,9 @@
 site_name: Esp32-101
-site_description: Description of the documentation
-
+site_description: ESP32-101-board reference site
+summary: A brief description of the dev kit.
+authors:
+    - Владимир Димов
+    - Борис Колев
 nav:
   - Home: index.md
   - About: about.md
