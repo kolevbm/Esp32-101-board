@@ -33,8 +33,12 @@
 - Вграден датчик на Хол ([сензор за магнитно поле](https://en.wikipedia.org/wiki/Hall_effect_sensor))
 
 - **3.3V** работно напрежение
-  
-  <img src="img/ESP32-30PIN-DEVBOARD.png" alt="Screenshot" style="zoom:100%;" />
+
+![image](img/ESP32-VROOM-32D-PINOUT.png)
+
+<img src="img/ESP32-VROOM-32D-PINOUT.png" alt="Screenshot" style="zoom:33%;" />
+
+
   *ESP32-devBoard 30pins*
 ## Периферни модули
 
@@ -54,5 +58,3 @@
 - Сензори за допир – 3 броя
 - Жироскоп/акселерометър (3 оси)
 - Допълнителна (външна) EEPROM памет (опция)
-
-
