@@ -34,7 +34,7 @@
 
 - **3.3V** работно напрежение
 
-![image](img/ESP32-VROOM-32D-PINOUT.png)
+![image](img/ESP32-30PIN-DEVBOARD.png)
 
 <img src="img/ESP32-VROOM-32D-PINOUT.png" alt="Screenshot" style="zoom:33%;" />
 
